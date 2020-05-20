@@ -5,7 +5,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-echo "Hello World cloud computing";
+echo "Cloud computing";
 ?>
 
 </body>
