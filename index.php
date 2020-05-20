@@ -6,6 +6,7 @@
 
 <?php
 echo "Wednesday !!!@@@";
+echo "Cloud computing";
 ?>
 
 </body>
