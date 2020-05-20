@@ -5,9 +5,8 @@
 <h1>My first PHP page</h1>
 
 <?php
-echo "Wednesday !!!@@@";
-echo "Cloud computing";
-echo "change in fixbug branch";
+echo "fix bug";
+
 ?>
 
 </body>
